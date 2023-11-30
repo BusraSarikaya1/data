@@ -1,0 +1,2 @@
+# data
+Veri Bilimi çalışması

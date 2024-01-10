@@ -39,3 +39,7 @@
 - [Intro to Regression Models](week-6/6-regression-intro.ipynb)
 - [Linear Regression Examples](week-6/6-example.ipynb)
 - [SQLite Example](week-6/6-sqlite.ipynb)
+
+
+## Week 7
+- [Intro to Non-Linear Regression] (week 7/7-non-lear-regression.ipynb)
